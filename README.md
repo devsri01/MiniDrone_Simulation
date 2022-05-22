@@ -27,4 +27,4 @@ Position Signal Generation- Generates reference signal for controller. x, y from
 Praoblems Faced-
 1-Initial error of “Out of bound Array Index”
 2-Tried to force land the drone at the height of error
-3-Later stored the x, y and slowly reduced the z
+3-Later stored the x, y and slowly reduced the z.
